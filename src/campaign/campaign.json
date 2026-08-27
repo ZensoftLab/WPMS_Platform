@@ -1,0 +1,6 @@
+[
+  {"id":"CMP-0001","name":"5 Years Customer Appreciation","type":"Loyalty","audience":"5+ years customers","channels":["SMS","WhatsApp"],"recipients":2450,"smsSent":2450,"whatsappSent":2180,"delivered":2392,"failed":58,"clicked":486,"formSubmitted":312,"tShirtClaimed":286,"status":"Completed","created":"2026-08-18"},
+  {"id":"CMP-0002","name":"Eid Lifestyle Savings","type":"Promotional","audience":"Premium customers","channels":["WhatsApp"],"recipients":1820,"smsSent":0,"whatsappSent":1820,"delivered":1774,"failed":46,"clicked":312,"formSubmitted":180,"tShirtClaimed":0,"status":"Completed","created":"2026-08-10"},
+  {"id":"CMP-0003","name":"August Birthday Rewards","type":"Birthday","audience":"Birthday this month","channels":["SMS"],"recipients":184,"smsSent":184,"whatsappSent":0,"delivered":181,"failed":3,"clicked":64,"formSubmitted":42,"tShirtClaimed":0,"status":"Sending","created":"2026-08-01"},
+  {"id":"CMP-0004","name":"Refer a Friend · Free Month","type":"Referral","audience":"Active customers","channels":["SMS","WhatsApp"],"recipients":7250,"smsSent":5000,"whatsappSent":4500,"delivered":9100,"failed":400,"clicked":2150,"formSubmitted":1850,"tShirtClaimed":0,"status":"Scheduled","created":"2026-07-28"}
+]
