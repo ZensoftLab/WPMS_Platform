@@ -1,0 +1,7 @@
+{
+  "name": "bintlbe-whatsapp-api",
+  "private": true,
+  "type": "module",
+  "scripts": { "start": "node index.js", "server": "node index.js", "dev": "vite --config ../vite.config.js" },
+  "dependencies": { "swagger-ui-express": "latest" }
+}

@@ -5,7 +5,7 @@ import './styles.css';
 import CustomerModule from './customer/CustomerModule';
 import { loadCustomers, persistCustomers } from './customer/customerService';
 import CampaignModule from './campaign/CampaignModule';
-import SettingsModule from './settings/SettingsModule';
+import SettingsModule from './settings/WhatsAppComposer';
 
 const campaigns = [
   ['5 Years Customer Appreciation','Loyalty','5 Years Customers','SMS · WhatsApp','2,450','2,392','486','Completed'],
